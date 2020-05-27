@@ -4,7 +4,7 @@
  Game Development Guide
 </h1>
 
-### A guide for getting started in game developement showcasing the best Game Engines, Software, and Libraries for building Games and Open world Simulators.
+### A guide for getting started in game development showcasing the best Game Engines, Software, and Libraries for building Games and Open world Simulators.
 
 [Unreal Engine](https://www.unrealengine.com) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.
 
@@ -13,6 +13,10 @@
 [Unigine](https://unigine.com) is a cross-platform game engine designed for development teams (C++/C# programmers, 3D artists) working on interactive 3D apps.
 
 [A-Frame](https://aframe.io) is a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.
+
+[ARKit](https://developer.apple.com/augmented-reality/arkit/) is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.
+
+[ARCore](https://developers.google.com/ar/) is a software development kit developed by Google that allows for augmented reality applications in the real world. These tools include environmental understanding, which allows devices to detect horizontal and vertical surfaces and planes.They also include motion tracking, which lets phones understand and track their positions relative to the world. Also ARCore’s Light Estimation API lets your digital objects appear realistically — as if they’re actually part of the physical world. And with ARCore Elements — a set of common AR UI components that have been validated with user testing — you can insert AR interactive patterns in your apps without having to reinvent the wheel.
 
 [AppGameKit](https://www.appgamekit.com) is a powerful game development engine, ideal for Hobbyist and Indie developers. Start coding in the easy to learn AppGameKit BASIC or use the libraries in C++ & XCode.
 
