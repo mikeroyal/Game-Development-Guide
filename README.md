@@ -4,7 +4,31 @@
  Game Development Guide
 </h1>
 
-### A guide for getting started in game development showcasing the best Game Engines, Software, and Libraries for building Games and Open world Simulators.
+#### A guide for getting started in game development showcasing the best Game Engines, Software, and Libraries for building Games and Simulators.
+
+## Resources
+
+[Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses) is a free learning platform that offers hands-on video courses and guided learning paths.
+
+[Unreal Engine Authorized Training Program](https://www.unrealengine.com/en-US/training-partners)
+
+[Unreal Engine for education](https://www.unrealengine.com/en-US/education/)
+
+[Unreal Engine Training & Simulation](https://www.unrealengine.com/en-US/industry/training-simulation)
+
+[Unity Certifications](https://unity.com/products/unity-certifications)
+
+[Game Design Online Courses from Udemy](https://www.udemy.com/courses/Design/Game-Design/)
+
+[Game Design Online Courses from Skillshare](https://www.skillshare.com/browse/game-design)
+
+[Learn Game Design with Online Courses and Classes from edX](https://www.edx.org/learn/game-design)
+
+[Game Design Courses from Coursera](https://www.coursera.org/courses?query=game%20design)
+
+[Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
+
+## Tools
 
 [Unreal Engine](https://www.unrealengine.com) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.
 
