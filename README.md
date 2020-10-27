@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/82849417-c121c200-9eac-11ea-80db-a5377eb4102b.png">
+ <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
   <br />
  Game Development Guide
 </h1>
