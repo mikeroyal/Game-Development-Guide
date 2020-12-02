@@ -18,6 +18,8 @@
 
 [Unity Certifications](https://unity.com/products/unity-certifications)
 
+[Autodesk for Games](https://www.autodesk.com/campaigns/autodesk-for-games)
+
 [Getting Started with DirectX 12 Ultimate](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/)
 
 [Getting Started with Vulkan](https://www.khronos.org/vulkan/)
@@ -58,7 +60,7 @@
 
 [SceneKit](https://developer.apple.com/scenekit/) is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your iOS apps.
 
-[ARCore](https://developers.google.com/ar/) is a software development kit developed by Google that allows for augmented reality applications in the real world. These tools include environmental understanding, which allows devices to detect horizontal and vertical surfaces and planes.They also include motion tracking, which lets phones understand and track their positions relative to the world. Also ARCore’s Light Estimation API lets your digital objects appear realistically — as if they’re actually part of the physical world. And with ARCore Elements — a set of common AR UI components that have been validated with user testing — you can insert AR interactive patterns in your apps without having to reinvent the wheel.
+[ARCore](https://developers.google.com/ar/) is a software development kit developed by Google that allows for augmented reality applications in the real world. These tools include environmental understanding, which allows devices to detect horizontal and vertical surfaces and planes. It also includes motion tracking, which lets phones understand and track their positions relative to the world. Also ARCore’s Light Estimation API lets your digital objects appear realistically as if they’re actually part of the physical world.
 
 [AppGameKit](https://www.appgamekit.com) is a powerful game development engine, ideal for Hobbyist and Indie developers. Where you can start coding in the easy to learn AppGameKit BASIC or use the libraries in C++ & XCode.
 
@@ -109,3 +111,5 @@
 [Vivox](https://www.vivox.com/) is a voice & text chat platform that's trusted by the world's biggest gaming brands and titles such as Fortnite, PUBG, League of Legends, and Rainbow Six Siege.
 
 [HGIG](https://www.hgig.org/) is a volunteer group of companies from the game and TV display industries that meet to specify and make available for the public guidelines to improve consumer gaming experiences in HDR.
+
+[GameBlocks](https://www.gameblocks.com/) is a Server Side Anti-Cheat & Middleware software.
