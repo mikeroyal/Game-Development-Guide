@@ -16,8 +16,8 @@
 
 3. [Game Development Tools](https://github.com/mikeroyal/Game-Development-Guide#game-development-tools)
 
-4. [Augmented Reality (AR) & Virtual Reality (VR)](https://github.com/mikeroyal/Game-Development-Guide#)
-5. 
+4. [Augmented Reality (AR) & Virtual Reality (VR)](https://github.com/mikeroyal/Game-Development-Guide#augmented-reality-ar--virtual-reality-vr)
+
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/117720750-e712a600-b193-11eb-993d-83ec835634be.png">
@@ -223,3 +223,13 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 [Libsurvive](https://github.com/cntools/libsurvive) is a set of tools and libraries that enable 6 dof tracking on lighthouse and vive based systems that is completely open source and can run on any device. It currently supports both SteamVR 1.0 and SteamVR 2.0 generation of devices and should support any tracked object commercially available.
 
 [Simula](https://github.com/SimulaVR/Simula) is a VR window manager for Linux that runs on top of Godot. It takes less than 1 minute to install. Simula is officially compatible with SteamVR headsets equipped with Linux drivers (e.g. HTC Vive, HTC Vive Pro, & Valve Index). We have also added experimental support to OpenXR headsets that have Monado drivers (e.g. North Star, OSVR HDK, and PSVR). Some people have gotten the Oculus Rift S to run Simula via OpenHMD ([see here](https://github.com/OpenHMD/OpenHMD/issues/225#issuecomment-638454156)).
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Game-Development-Guide/pulls).
+
+
+## License
+[Back to the Top](https://github.com/mikeroyal/Game-Development-Guide#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
