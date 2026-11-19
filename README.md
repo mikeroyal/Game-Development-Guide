@@ -217,6 +217,8 @@
 
 [GameBlocks](https://www.gameblocks.com/) is a Server Side Anti-Cheat & Middleware software.
 
+[PixelArtHive](https://pixelarthive.com/) is a free browser-based image-to-pixel-art converter and pixel art upscaler for preparing small graphics and sprites, with image processing performed locally.
+
 # Augmented Reality (AR) & Virtual Reality (VR)
 
 [Back to the Top](https://github.com/mikeroyal/Game-Development-Guide#table-of-contents)
